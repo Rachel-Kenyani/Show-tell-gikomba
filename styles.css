@@ -1,0 +1,385 @@
+body{
+    background-color: #002d3d;;
+    height: 100cm;
+    width: 60cm;
+}
+.firstpage{
+        position: absolute;
+        top: 2cm;
+        left: 2cm;
+        background-image: url(/Images/thrift1.jpg);
+        width: 55cm;
+        height: 30cm;
+        
+}
+#fur{
+    position: absolute;
+    top:7cm;
+    left:6cm;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #002d3d;
+
+}   
+ul{
+    list-style-type: none;
+}
+#about{
+    position: absolute;
+    top:8.7cm;
+    left:19cm;
+    text-decoration: none;
+    color: #002d3d;
+    font-size: 30px;
+    font-weight: 700;
+}
+#contact{
+    position: absolute;
+    top:8.7cm;
+    left:27cm;
+    text-decoration: none;
+    color: #002d3d;
+    font-size: 30px;
+    font-weight: 700;
+}
+#glass{
+    position: absolute;
+    top:8.7cm;
+    left:35cm;
+    font-size: 50px;
+    color: #002d3d;
+    font-weight: 500;
+}
+#login{
+    position: absolute;
+    top:8.7cm;
+    left:40cm;
+    text-decoration: none;
+    color: #002d3d;
+    font-size: 30px;
+    font-weight: 700;
+}
+#sign{
+    position: absolute;
+    top:8.7cm;
+    left:50cm;
+    padding: 9px 28px;
+    font-size: 20px;
+    border-radius: 8px;
+    background-color: #002d3d;
+    font-size: 30px;
+    font-weight: 700;
+    color: #E5E1E0;
+    border: none;
+}
+#shoe1{
+    position: absolute;
+    top: 4cm;
+    left:25cm;
+    width:50%;
+}
+h1{
+    position: absolute;
+    top: 15cm;
+    font-size: 3cm;
+    left: 15cm;
+    
+
+}
+#popular{
+    position: absolute;
+    top: 40cm;
+    padding-left: 7cm;
+    color: #E5E1E0;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+#line3{
+    position: absolute;
+    top: 42cm;
+    left: 24cm;
+    height: 2px;
+    background-color: #E5E1E0;
+    font-size: large;
+    padding-right: 5cm;  
+}
+#p1{
+    position: absolute;
+    top: 49cm;
+    left: 7cm;
+    width: 18%;
+
+}
+
+#dp1{
+    position: absolute;
+    top: 59cm;
+    left: 7cm;
+    color: #ffe5d6;
+    font-size: x-large;
+}
+#heart1{
+    position: absolute;
+    top: 59.5cm;
+    left: 14cm;
+    color:#ffe5d6;
+    font-size: x-large;
+   
+}
+#p2{
+    position: absolute;
+    left: 20cm;
+    top: 49cm;
+    width: 18%;
+    height: 8cm;
+
+}
+#dp2{
+    position: absolute;
+    top: 59cm;
+    left: 20cm;
+    font-size: x-large;
+    color: #ffe5d6;
+}
+#heart2{
+    position: absolute;
+    top: 59.5cm;
+    left: 27cm;
+    color:#ffe5d6;
+    font-size: x-large;
+}
+#p3{
+    position: absolute;
+    left: 32cm;
+    top: 49cm;
+    width: 18%;
+    height: 8cm;
+
+}
+#dp3{
+    position: absolute;
+    top: 59cm;
+    left: 32cm;
+    color: #ffe5d6;
+    font-size: x-large;
+}
+#heart3{
+    position: absolute;
+    top: 59.5cm;
+    left: 39cm;
+    color:#ffe5d6;
+    font-size: x-large;
+}
+#all{
+    position: absolute;
+    top: 64cm;
+    left: 22cm;
+    padding: 20px 39px 20px 20px;
+    border-radius: 10px;
+    background-color: #ffe5d6;
+    border: none;
+    color: #002d3d;
+    font-size: xx-large;
+}
+
+
+/* break */
+#popular2{
+    position: absolute;
+    top: 68cm;
+    padding-left: 7cm;
+    color: #E5E1E0;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+#line33{
+    position: absolute;
+    top: 70cm;
+    left: 23cm;
+    height: 2px;
+    background-color: #E5E1E0;
+    font-size: large;
+    padding-right: 5cm;  
+}
+#p11{
+    position: absolute;
+    top: 75cm;
+    left: 7cm;
+    width: 18%;
+    height: 45%;
+
+}
+
+#dp11{
+    position: absolute;
+    top: 85cm;
+    left: 7cm;
+    color: #ffe5d6;
+    font-size: x-large;
+}
+#heart11{
+    position: absolute;
+    top: 85.5cm;
+    left: 14cm;
+    color:#ffe5d6;
+    font-size: x-large;
+   
+}
+#p22{
+    position: absolute;
+    left: 20cm;
+    top: 75cm;
+    width: 18%;
+    height:45%;
+
+}
+#dp22{
+    position: absolute;
+    top: 85cm;
+    left: 20cm;
+    font-size: x-large;
+    color: #ffe5d6;
+}
+#heart22{
+    position: absolute;
+    top: 85.5cm;
+    left: 27cm;
+    color:#ffe5d6;
+    font-size: x-large;
+}
+#p33{
+    position: absolute;
+    left: 32cm;
+    top: 75cm;
+    width: 18%;
+    height: 45%;
+
+}
+#dp33{
+    position: absolute;
+    top: 85cm;
+    left: 32cm;
+    color: #ffe5d6;
+    font-size: x-large;
+}
+#heart33{
+    position: absolute;
+    top: 85.5cm;
+    left: 39cm;
+    color:#ffe5d6;
+    font-size: x-large;
+}
+#all2{
+    position: absolute;
+    top: 90cm;
+    left: 22cm;
+    padding: 20px 39px 20px 20px;
+    border-radius: 10px;
+    background-color: #ffe5d6;
+    border: none;
+    color: #002d3d;
+    font-size: xx-large;
+}
+
+
+/* breakk */
+#popular3{
+    position: absolute;
+    top: 94cm;
+    padding-left: 7cm;
+    color: #E5E1E0;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+}
+#line333{
+    position: absolute;
+    top: 96cm;
+    left: 23cm;
+    height: 2px;
+    background-color: #E5E1E0;
+    font-size: large;
+    padding-right: 5cm;  
+}
+#p111{
+    position: absolute;
+    top: 100cm;
+    left: 7cm;
+    width: 18%;
+    height: 45%;
+
+}
+
+#dp111{
+    position: absolute;
+    top: 111cm;
+    left: 7cm;
+    color: #ffe5d6;
+    font-size: x-large;
+}
+#heart111{
+    position: absolute;
+    top: 111.5cm;
+    left: 14cm;
+    color:#ffe5d6;
+    font-size: x-large;
+   
+}
+#p222{
+    position: absolute;
+    left: 20cm;
+    top: 100cm;
+    width: 18%;
+    height:45%;
+
+}
+#dp222{
+    position: absolute;
+    top: 111cm;
+    left: 20cm;
+    font-size: x-large;
+    color: #ffe5d6;
+}
+#heart222{
+    position: absolute;
+    top: 111.5cm;
+    left: 27cm;
+    color:#ffe5d6;
+    font-size: x-large;
+}
+#p333{
+    position: absolute;
+    left: 32cm;
+    top: 100cm;
+    width: 18%;
+    height: 45%;
+
+}
+#dp333{
+    position: absolute;
+    top: 111cm;
+    left: 32cm;
+    color: #ffe5d6;
+    font-size: x-large;
+}
+#heart333{
+    position: absolute;
+    top: 111.5cm;
+    left: 39cm;
+    color:#ffe5d6;
+    font-size: x-large;
+}
+#all3{
+    position: absolute;
+    top: 116cm;
+    left: 22cm;
+    padding: 20px 39px 20px 20px;
+    border-radius: 10px;
+    background-color: #ffe5d6;
+    border: none;
+    color: #002d3d;
+    font-size: xx-large;
+}
