@@ -12,6 +12,12 @@ body{
         height: 30cm;
         
 }
+#logo{
+    position: absolute;
+    top: 8cm;
+    left: 4cm;
+    width: 100px;
+}
 #fur{
     position: absolute;
     top:7cm;
@@ -19,7 +25,7 @@ body{
     font-size: 50px;
     font-weight: 700;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #002d3d;
+
 
 }   
 ul{
@@ -382,4 +388,86 @@ h1{
     border: none;
     color: #002d3d;
     font-size: xx-large;
+}
+
+/* breeeeeeeeeeeeeek */
+.fifthpage{
+    position: absolute;
+    top: 119cm;
+    left: 7px;
+    right: 7px;
+    height:10cm;
+    background-color:  #ffe5d6;
+}
+#logo2{
+    position: absolute;
+    top: 3cm;
+    left: 4.7cm;
+}
+#ch{
+    position: absolute;
+    top:3cm;
+    left: 6.5cm;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ig{
+    position: absolute;
+    top:5.5cm ;
+    left: 6.5cm;
+    font-size: xx-large;
+    color: #002d3d;
+}
+#pin{
+    position: absolute;
+    top:5.5cm ;
+    left: 8cm;
+    font-size: xx-large;
+    color:  #002d3d;
+}
+#fb{
+    position: absolute;
+    top:5.5cm ;
+    left: 9.3cm;
+    font-size: xx-large;
+    color: #002d3d;
+}
+
+.secondr{
+    position: absolute;
+    top:3.6cm ;
+    left: 13cm;
+    font-size: xx-large;
+    color: #002d3d;
+}
+#secondrow{
+    list-style-type: none;
+    line-height: 33px;
+}
+.thirdr{
+    position: absolute;
+    top:3.6cm ;
+    left: 23cm;
+    font-size: xx-large;
+    color: #002d3d;
+}
+#thirdrow{
+    list-style-type: none;
+    line-height: 33px; 
+
+}
+.fifthr{
+    position: absolute;
+    top:3.6cm ;
+    left: 32cm;
+    font-size: xx-large;
+   
+}
+#fifthrow{
+    list-style-type: none;
+    line-height: 33px; 
+}
+#links{
+    text-decoration: none;
+    color: #002d3d;
 }
